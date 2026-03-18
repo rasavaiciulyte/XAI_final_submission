@@ -1,22 +1,8 @@
 # XAI Final Submission
 
-like where to access the dataset
-where to put the data
-what packages should be installed to be able to run the data
-
-how to run my code
-
-how data is preprocessed
-
-implement random forest
-
-.gitignore should be used to ignore the large data files to not push them to the server
-
-
 To run the code, please download the dataset from: 
 
 http://205.174.165.80/CICDataset/CIC-IDS-2017/ 
-
 
 
 The code provided in this repository investigates the role that Explainable AI can play in the industry of cybersecurity. I trained a random forest classifier on a database of network activity (CIC-IDS2017), to classify if a specific instance should be labeled as normal or abnormal.
