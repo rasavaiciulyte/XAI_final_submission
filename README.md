@@ -2,12 +2,8 @@
 
 To run the code, please download the dataset from: 
 
-http://205.174.165.80/CICDataset/CIC-IDS-2017/ 
+http://205.174.165.80/CICDataset/CIC-IDS-2017/
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 9caf474516eae63d26c8c72598b3db569a911688
 The code provided in this repository investigates the role that Explainable AI can play in the industry of cybersecurity. I trained a random forest classifier on a database of network activity (CIC-IDS2017), to classify if a specific instance should be labeled as normal or abnormal.
 
 I compare two XAI methods, LIME and DiCE. Both methods are post-hoc explanations, one works based on principles of feature attribution, the other functions as a Counterfactual explanation. In my report I dive deeper into the functionalities of these methods, discuss their strenghts and shortcomings, evaluate the necessity of XAI in cybersecurity. 
